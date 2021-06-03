@@ -31,6 +31,7 @@ public class BoardInfosController {
 		
 		model.addAttribute("vo", boardInfos);
 		
+		
 		return "boardInfosAdmin";
 	}
 	
